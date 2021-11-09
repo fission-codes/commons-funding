@@ -1,26 +1,16 @@
 ![](https://github.com/fission-suite/PROJECTNAME/raw/master/assets/logo.png?sanitize=true)
 
-# Project Name
+# Bounties, Grants, and other Funding @ FissionCodes
 
-[![Build Status](https://travis-ci.org/fission-suite/PROJECTNAME.svg?branch=master)](https://travis-ci.org/fission-suite/PROJECTNAME)
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/fission-suite/blob/master/LICENSE)
-[![Maintainability](https://api.codeclimate.com/v1/badges/44fb6a8a0cfd88bc41ef/maintainability)](https://codeclimate.com/github/fission-suite/PROJECTNAME/maintainability)
-[![Built by FISSION](https://img.shields.io/badge/⌘-Built_by_FISSION-purple.svg)](https://fission.codes)
 [![Discord](https://img.shields.io/discord/478735028319158273.svg)](https://discord.gg/zAQBDEq)
 [![Discourse](https://img.shields.io/discourse/https/talk.fission.codes/topics)](https://talk.fission.codes)
 
-An amazing description goes here!
 
-[Try it out!](https://linktoalivedemo.example.com)
 
-# QuickStart
+## Open Collective
 
-```shell
-# IPFS on MacOS, otherwise https://docs.ipfs.io/introduction/install/
-brew install ipfs
-brew service start ipfs
-```
+Fission is a [fiscal host on Open Collective](https://opencollective.com/fission). We host a number of collectives, and will be posting special projects to the [Fission Platform](https://opencollective.com/fissionplatform). Best for recurring funding and custom tiers of donations and services.
 
-# Table of Contents
+## Gitcoin
 
-# How To
+Gitcoin is used to attach bounties directly to issues on Github. It's best for one off, code centric bounties where you want to use tokens to pay.
