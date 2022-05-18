@@ -1,6 +1,6 @@
 ![](https://github.com/fission-suite/PROJECTNAME/raw/master/assets/logo.png?sanitize=true)
 
-# Bounties, Grants, and other Funding @ FissionCodes
+# Funding the Commons, Grants, and Bounties @ FissionCodes
 
 [![Discord](https://img.shields.io/discord/478735028319158273.svg)](https://discord.gg/zAQBDEq)
 [![Discourse](https://img.shields.io/discourse/https/talk.fission.codes/topics)](https://talk.fission.codes)
